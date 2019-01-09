@@ -1,0 +1,33 @@
+.header, .footer-area{
+    border: 1px solid #DDD;
+    padding: 20px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 10px #DDD;
+    
+}
+.content-area, .menu{
+    margin-top: 10px;
+}
+.sidebar, .content{
+    height: 500px;
+    overflow-y: scroll;
+    border: 1px solid #DDD;
+    padding: 20px;
+    box-shadow: 0px 0px 10px #DDD;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.image {
+    position: relative;
+    text-align: center;
+    
+}
+.img{
+    height: 100px;
+    width: 1050px;
+}
