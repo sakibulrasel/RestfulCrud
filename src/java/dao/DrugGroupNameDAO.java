@@ -17,7 +17,7 @@ import util.DBConnect;
 
 /**
  *
- * @author zakir
+ * Author     : Sakibul Haque
  */
 public class DrugGroupNameDAO {
     public List<DrugGroupName> getAllDrugGroupName() {

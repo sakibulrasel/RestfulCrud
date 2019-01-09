@@ -7,7 +7,7 @@ package bean;
 
 /**
  *
- * @author zakir
+ * Author     : Sakibul Haque
  */
 public class Product {
     private int pid;

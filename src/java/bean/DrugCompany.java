@@ -5,10 +5,15 @@
  */
 package bean;
 
+
 /**
  *
- * @author zakir
+ *
+    Created on : Oct 23, 2018, 10:31:49 PM
+    Author     : Sakibul Haque
  */
+
+
 public class DrugCompany {
     private int dc_id;
     private String dc_nick_name;

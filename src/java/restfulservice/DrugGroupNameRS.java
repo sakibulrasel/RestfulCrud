@@ -19,7 +19,7 @@ import javax.ws.rs.core.MediaType;
 
 /**
  *
- * @author zakir
+ * Author     : Sakibul Haque
  */
 @Path("/drugGroupNames")
 public class DrugGroupNameRS {

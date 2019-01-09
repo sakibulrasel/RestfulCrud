@@ -7,7 +7,7 @@ package bean;
 
 /**
  *
- * @author zakir
+ * Author     : Sakibul Haque
  */
 public class DrugGroupName {
     private int dg_id;
